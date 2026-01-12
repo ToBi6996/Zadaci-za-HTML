@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Vježba 2 - Slike</title>
+</head>
+<body>
+
+    <h1>Vježba s atributima i slikama</h1>
+    <h2>Razlika između apsolutnih i relativnih putanja</h2>
+
+    <p>U HTML-u možemo prikazivati slike koristeći element img. Slike mogu biti pohranjene lokalno na našem računalu ili negdje na internetu.</p>
+    
+    <p>Ispod se nalaze primjeri oba načina učitavanja slika.</p>
+
+    <h3>1. Slika s apsolutnom putanjom:</h3>
+    <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" alt="HTML5 Logo" width="200">
+
+    <h3>2. Slika s relativnom putanjom:</h3>
+    <img src="img/Slika.webp" alt="slika1" width="200">
+
+</body>
+</html>
