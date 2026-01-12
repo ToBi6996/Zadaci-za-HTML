@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Vježba 1 - Početna stranica</title>
+</head>
+<body>
+
+    <h1>Dobrodošli na moju prvu HTML5 stranicu</h1>
+
+    <h2>Učenje osnovnih elemenata</h2>
+
+    <p>HTML5 je najnovija verzija jezika za označavanje hiperteksta. On donosi nove značajke, elemente i atribute koji omogućuju izgradnju moćnijih web stranica i aplikacija.</p>
+
+    <p>Ovaj standard je dizajniran kako bi se osigurala kompatibilnost s različitim uređajima, od stolnih računala do pametnih telefona, te kako bi se smanjila potreba za vanjskim dodacima.</p>
+
+</body>
+</html>
